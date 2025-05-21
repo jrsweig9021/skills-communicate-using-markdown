@@ -19,3 +19,8 @@ def add(x, y):
 print(add(10, 5))
 # Output: 15
 ```
+
+- [X]  Turn on GitHub Pages
+- [ ]  Outline my portfolio
+- [ ]  Introduce myself to the world
+- [ ]  Learn to communicate on GitHub using Markdown
